@@ -1,0 +1,966 @@
+﻿  bank_system_practice_101.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsMainMenuScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Hp\source\repos\bank_system_practice_101\clsBankClient.h(304,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsClientListScreen.h(27,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsClientListScreen.h(27,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsClientListScreen.h(27,56): error C2065: 'pListClients': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewClientScreen.h(48,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewClientScreen.h(48,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewClientScreen.h(48,56): error C2065: 'pAddNewClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteClientScreen.h(28,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteClientScreen.h(28,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteClientScreen.h(28,56): error C2065: 'pDeleteClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateClientScreen.h(45,31): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateClientScreen.h(45,40): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateClientScreen.h(45,55): error C2065: 'pUpdateClients': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindClientScreen.h(27,29): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindClientScreen.h(27,38): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindClientScreen.h(27,53): error C2065: 'pFindClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTotalBalances.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTransactionsScreen.h(100,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTransactionsScreen.h(100,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTransactionsScreen.h(100,56): error C2065: 'pTranactions': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(12,38): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(15,70): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(16,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(17,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(18,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(19,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(20,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,9): error C2923: 'std::vector': '`anonymous-namespace'::clsUser' is not a valid template type argument for parameter '_Ty'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6): message : see declaration of '`anonymous-namespace'::clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,9): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : see declaration of 'std::vector'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,35): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,44): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,1): error C3861: 'GetUsersList': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,1): error C2514: 'std::vector': class template cannot be constructed
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : see declaration of 'std::vector'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,1): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,1): message : Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,49): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(1713,39): message : see declaration of 'std::vector<_Ty,_Alloc>::size'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,1): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,1): message : Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,13): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(1713,39): message : see declaration of 'std::vector<_Ty,_Alloc>::size'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,26): error C2146: syntax error: missing ';' before identifier 'User'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2143: syntax error: missing ';' before ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2143: syntax error: missing ')' before ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2059: syntax error: ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,1): error C2059: syntax error: ')'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(52,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(54,38): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(13,31): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(34,28): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(16,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(19,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(22,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(25,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(28,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(31,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(38,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(39,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(40,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(41,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(42,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(43,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(44,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(45,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(72,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(72,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(72,52): error C2065: 'eAll': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(79,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(79,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(79,52): error C2065: 'pAddNewClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(86,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(86,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(86,52): error C2065: 'pDeleteClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(93,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(93,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(93,52): error C2065: 'pUpdateClients': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(100,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(100,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(100,52): error C2065: 'pFindClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(107,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(107,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(107,52): error C2065: 'pTranactions': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(114,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(114,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(114,52): error C2065: 'pManageUsers': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(132,16): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(132,25): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(132,1): error C3861: 'IsUserExist': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,17): error C2146: syntax error: missing ';' before identifier 'NewUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,17): error C2065: 'NewUser': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,27): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,36): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,1): error C3861: 'GetAddNewUserObject': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(140,23): error C2065: 'NewUser': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,9): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,18): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,1): error C2065: 'enSaveResults': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,32): error C2146: syntax error: missing ';' before identifier 'SaveResult'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,32): error C2065: 'SaveResult': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(144,9): error C2065: 'SaveResult': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(144,1): fatal error C1003: error count exceeds 100; stopping compilation
+  clsAddNewClient.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsBankClient.h(304,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewClientScreen.h(48,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewClientScreen.h(48,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewClientScreen.h(48,56): error C2065: 'pAddNewClient': undeclared identifier
+  clsAddNewUser.cpp
+  clsClientListScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsBankClient.h(304,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsClientListScreen.h(27,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsClientListScreen.h(27,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsClientListScreen.h(27,56): error C2065: 'pListClients': undeclared identifier
+  clsDate.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  clsDeleteClientScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsBankClient.h(304,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteClientScreen.h(28,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteClientScreen.h(28,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteClientScreen.h(28,56): error C2065: 'pDeleteClient': undeclared identifier
+  clsDeleteUserScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(11,28): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(15,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(16,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(17,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(18,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(19,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(20,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(21,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(22,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(38,17): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(38,26): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(38,1): error C3861: 'IsUserExist': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(44,17): error C2146: syntax error: missing ';' before identifier 'User1'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(44,17): error C2065: 'User1': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(44,25): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(44,34): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(44,1): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(45,20): error C2065: 'User1': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(55,17): error C2065: 'User1': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteUserScreen.h(58,28): error C2065: 'User1': undeclared identifier
+  clsDiposetScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsBankClient.h(304,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+  clsFindClientScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsBankClient.h(304,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindClientScreen.h(27,29): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindClientScreen.h(27,38): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindClientScreen.h(27,53): error C2065: 'pFindClient': undeclared identifier
+  clsFindUserScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(13,28): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(17,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(18,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(19,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(20,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(21,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(22,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(23,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(24,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(39,17): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(39,26): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(39,1): error C3861: 'IsUserExist': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(45,17): error C2146: syntax error: missing ';' before identifier 'User1'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(45,17): error C2065: 'User1': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(45,25): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(45,34): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(45,1): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(47,14): error C2065: 'User1': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindUserScreen.h(56,20): error C2065: 'User1': undeclared identifier
+  clsInputValidate.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  clsListUsersScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(12,38): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(15,70): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(16,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(17,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(18,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(19,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(20,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,9): error C2923: 'std::vector': '`anonymous-namespace'::clsUser' is not a valid template type argument for parameter '_Ty'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6): message : see declaration of '`anonymous-namespace'::clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,9): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : see declaration of 'std::vector'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,35): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,44): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,1): error C3861: 'GetUsersList': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,1): error C2514: 'std::vector': class template cannot be constructed
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : see declaration of 'std::vector'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,1): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,1): message : Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,49): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(1713,39): message : see declaration of 'std::vector<_Ty,_Alloc>::size'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,1): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,1): message : Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,13): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(1713,39): message : see declaration of 'std::vector<_Ty,_Alloc>::size'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,26): error C2146: syntax error: missing ';' before identifier 'User'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2143: syntax error: missing ';' before ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2143: syntax error: missing ')' before ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2059: syntax error: ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,1): error C2059: syntax error: ')'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(52,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(54,38): error C2065: 'User': undeclared identifier
+  clsLoginScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsMainMenuScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Hp\source\repos\bank_system_practice_101\clsBankClient.h(304,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsClientListScreen.h(27,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsClientListScreen.h(27,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsClientListScreen.h(27,56): error C2065: 'pListClients': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewClientScreen.h(48,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewClientScreen.h(48,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewClientScreen.h(48,56): error C2065: 'pAddNewClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteClientScreen.h(28,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteClientScreen.h(28,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteClientScreen.h(28,56): error C2065: 'pDeleteClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateClientScreen.h(45,31): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateClientScreen.h(45,40): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateClientScreen.h(45,55): error C2065: 'pUpdateClients': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindClientScreen.h(27,29): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindClientScreen.h(27,38): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindClientScreen.h(27,53): error C2065: 'pFindClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTotalBalances.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTransactionsScreen.h(100,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTransactionsScreen.h(100,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTransactionsScreen.h(100,56): error C2065: 'pTranactions': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(12,38): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(15,70): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(16,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(17,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(18,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(19,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(20,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,9): error C2923: 'std::vector': '`anonymous-namespace'::clsUser' is not a valid template type argument for parameter '_Ty'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6): message : see declaration of '`anonymous-namespace'::clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,9): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : see declaration of 'std::vector'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,35): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,44): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,1): error C3861: 'GetUsersList': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,1): error C2514: 'std::vector': class template cannot be constructed
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : see declaration of 'std::vector'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,1): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,1): message : Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,49): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(1713,39): message : see declaration of 'std::vector<_Ty,_Alloc>::size'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,1): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,1): message : Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,13): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(1713,39): message : see declaration of 'std::vector<_Ty,_Alloc>::size'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,26): error C2146: syntax error: missing ';' before identifier 'User'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2143: syntax error: missing ';' before ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2143: syntax error: missing ')' before ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2059: syntax error: ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,1): error C2059: syntax error: ')'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(52,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(54,38): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(13,31): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(34,28): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(16,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(19,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(22,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(25,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(28,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(31,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(38,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(39,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(40,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(41,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(42,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(43,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(44,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(45,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(72,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(72,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(72,52): error C2065: 'eAll': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(79,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(79,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(79,52): error C2065: 'pAddNewClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(86,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(86,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(86,52): error C2065: 'pDeleteClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(93,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(93,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(93,52): error C2065: 'pUpdateClients': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(100,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(100,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(100,52): error C2065: 'pFindClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(107,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(107,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(107,52): error C2065: 'pTranactions': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(114,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(114,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(114,52): error C2065: 'pManageUsers': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(132,16): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(132,25): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(132,1): error C3861: 'IsUserExist': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,17): error C2146: syntax error: missing ';' before identifier 'NewUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,17): error C2065: 'NewUser': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,27): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,36): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,1): error C3861: 'GetAddNewUserObject': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(140,23): error C2065: 'NewUser': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,9): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,18): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,1): error C2065: 'enSaveResults': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,32): error C2146: syntax error: missing ';' before identifier 'SaveResult'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,32): error C2065: 'SaveResult': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(144,9): error C2065: 'SaveResult': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(144,1): fatal error C1003: error count exceeds 100; stopping compilation
+  clsMainMenuScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsMainMenuScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Hp\source\repos\bank_system_practice_101\clsBankClient.h(304,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsClientListScreen.h(27,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsClientListScreen.h(27,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsClientListScreen.h(27,56): error C2065: 'pListClients': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewClientScreen.h(48,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewClientScreen.h(48,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewClientScreen.h(48,56): error C2065: 'pAddNewClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteClientScreen.h(28,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteClientScreen.h(28,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsDeleteClientScreen.h(28,56): error C2065: 'pDeleteClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateClientScreen.h(45,31): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateClientScreen.h(45,40): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateClientScreen.h(45,55): error C2065: 'pUpdateClients': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindClientScreen.h(27,29): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindClientScreen.h(27,38): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsFindClientScreen.h(27,53): error C2065: 'pFindClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTotalBalances.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTransactionsScreen.h(100,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTransactionsScreen.h(100,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTransactionsScreen.h(100,56): error C2065: 'pTranactions': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(12,38): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(15,70): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(16,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(17,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(18,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(19,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(20,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,9): error C2923: 'std::vector': '`anonymous-namespace'::clsUser' is not a valid template type argument for parameter '_Ty'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6): message : see declaration of '`anonymous-namespace'::clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,9): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : see declaration of 'std::vector'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,35): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,44): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,1): error C3861: 'GetUsersList': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,1): error C2514: 'std::vector': class template cannot be constructed
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : see declaration of 'std::vector'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,1): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,1): message : Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,49): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(1713,39): message : see declaration of 'std::vector<_Ty,_Alloc>::size'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,1): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,1): message : Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,13): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(1713,39): message : see declaration of 'std::vector<_Ty,_Alloc>::size'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,26): error C2146: syntax error: missing ';' before identifier 'User'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2143: syntax error: missing ';' before ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2143: syntax error: missing ')' before ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2059: syntax error: ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,1): error C2059: syntax error: ')'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(52,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(54,38): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(13,31): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(34,28): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(16,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(19,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(22,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(25,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(28,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(31,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(38,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(39,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(40,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(41,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(42,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(43,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(44,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(45,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(72,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(72,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(72,52): error C2065: 'eAll': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(79,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(79,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(79,52): error C2065: 'pAddNewClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(86,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(86,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(86,52): error C2065: 'pDeleteClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(93,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(93,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(93,52): error C2065: 'pUpdateClients': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(100,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(100,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(100,52): error C2065: 'pFindClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(107,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(107,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(107,52): error C2065: 'pTranactions': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(114,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(114,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(114,52): error C2065: 'pManageUsers': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(132,16): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(132,25): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(132,1): error C3861: 'IsUserExist': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,17): error C2146: syntax error: missing ';' before identifier 'NewUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,17): error C2065: 'NewUser': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,27): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,36): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,1): error C3861: 'GetAddNewUserObject': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(140,23): error C2065: 'NewUser': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,9): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,18): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,1): error C2065: 'enSaveResults': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,32): error C2146: syntax error: missing ';' before identifier 'SaveResult'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,32): error C2065: 'SaveResult': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(144,9): error C2065: 'SaveResult': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(144,1): fatal error C1003: error count exceeds 100; stopping compilation
+  clsManageUserSceen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(12,38): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(15,70): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(16,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(17,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(18,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(19,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(20,45): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,9): error C2923: 'std::vector': '`anonymous-namespace'::clsUser' is not a valid template type argument for parameter '_Ty'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6): message : see declaration of '`anonymous-namespace'::clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,9): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : see declaration of 'std::vector'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,35): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,44): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,1): error C3861: 'GetUsersList': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(28,1): error C2514: 'std::vector': class template cannot be constructed
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : see declaration of 'std::vector'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,1): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,1): message : Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(31,49): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(1713,39): message : see declaration of 'std::vector<_Ty,_Alloc>::size'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,1): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,1): message : Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(47,13): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(1713,39): message : see declaration of 'std::vector<_Ty,_Alloc>::size'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,26): error C2146: syntax error: missing ';' before identifier 'User'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2143: syntax error: missing ';' before ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2143: syntax error: missing ')' before ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,31): error C2059: syntax error: ':'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(51,1): error C2059: syntax error: ')'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(52,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsListUsersScreen.h(54,38): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(13,31): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(34,28): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(16,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(19,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(22,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(25,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(28,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(31,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(38,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(39,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(40,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(41,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(42,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(43,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(44,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(45,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(72,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(72,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(72,52): error C2065: 'eAll': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(79,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(79,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(79,52): error C2065: 'pAddNewClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(86,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(86,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(86,52): error C2065: 'pDeleteClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(93,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(93,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(93,52): error C2065: 'pUpdateClients': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(100,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(100,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(100,52): error C2065: 'pFindClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(107,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(107,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(107,52): error C2065: 'pTranactions': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(114,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(114,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(114,52): error C2065: 'pManageUsers': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(132,16): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(132,25): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(132,1): error C3861: 'IsUserExist': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,17): error C2146: syntax error: missing ';' before identifier 'NewUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,17): error C2065: 'NewUser': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,27): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,36): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(138,1): error C3861: 'GetAddNewUserObject': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(140,23): error C2065: 'NewUser': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,9): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,18): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,1): error C2065: 'enSaveResults': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,32): error C2146: syntax error: missing ';' before identifier 'SaveResult'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(142,32): error C2065: 'SaveResult': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(144,9): error C2065: 'SaveResult': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(144,22): error C2065: 'NewUser': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(146,17): error C2065: 'SaveResult': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(147,1): error C2050: switch expression not integral
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(148,15): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(148,24): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(148,39): error C2065: 'svSucceeded': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(148,39): error C2131: expression did not evaluate to a constant
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(148,39): message : a non-constant (sub-)expression was encountered
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(151,24): error C2065: 'NewUser': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(154,14): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(154,23): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(154,38): error C2065: 'svFaildEmptyObject': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(154,38): error C2131: expression did not evaluate to a constant
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(154,38): message : a non-constant (sub-)expression was encountered
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(160,14): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(160,23): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(160,38): error C2065: 'svFaildUserExists': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(160,38): error C2131: expression did not evaluate to a constant
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(160,38): message : a non-constant (sub-)expression was encountered
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(148,1): error C2051: case expression not constant
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(154,1): error C2051: case expression not constant
+C:\Users\Hp\source\repos\bank_system_practice_101\clsAddNewUserScreen.h(154,1): fatal error C1003: error count exceeds 100; stopping compilation
+  clsPerson.cpp
+  clsScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+  clsString.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  clsTotalBalances.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsBankClient.h(304,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTotalBalances.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  clsTransactionsScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsBankClient.h(304,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTotalBalances.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTransactionsScreen.h(100,32): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTransactionsScreen.h(100,41): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsTransactionsScreen.h(100,56): error C2065: 'pTranactions': undeclared identifier
+  Compiling...
+  clsUpdateClientScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsBankClient.h(304,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateClientScreen.h(45,31): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateClientScreen.h(45,40): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateClientScreen.h(45,55): error C2065: 'pUpdateClients': undeclared identifier
+  clsUpdateUserScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(13,31): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(34,28): error C2061: syntax error: identifier 'clsUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(16,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(19,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(22,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(25,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(28,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(31,9): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(38,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(39,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(40,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(41,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(42,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(43,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(44,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(45,39): error C2065: 'User': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(72,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(72,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(72,52): error C2065: 'pListClients': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(79,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(79,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(79,52): error C2065: 'pAddNewClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(86,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(86,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(86,52): error C2065: 'pDeleteClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(93,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(93,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(93,52): error C2065: 'pUpdateClients': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(100,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(100,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(100,52): error C2065: 'pFindClient': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(107,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(107,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(107,52): error C2065: 'pTranactions': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(114,28): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(114,37): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(114,52): error C2065: 'pManageUsers': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(133,21): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(133,30): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(133,1): error C3861: 'IsUserExist': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(139,21): error C2146: syntax error: missing ';' before identifier 'User1'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(139,21): error C2065: 'User1': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(139,29): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(139,38): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(139,1): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(141,24): error C2065: 'User1': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(155,31): error C2065: 'User1': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(157,17): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(157,26): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(157,1): error C2065: 'enSaveResults': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(157,40): error C2146: syntax error: missing ';' before identifier 'SaveResult'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(157,40): error C2065: 'SaveResult': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(159,17): error C2065: 'SaveResult': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(159,30): error C2065: 'User1': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(161,25): error C2065: 'SaveResult': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(162,1): error C2050: switch expression not integral
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(163,23): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(163,32): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(163,47): error C2065: 'svSucceeded': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(163,47): error C2131: expression did not evaluate to a constant
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(163,47): message : a non-constant (sub-)expression was encountered
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(167,32): error C2065: 'User1': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(170,22): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(170,31): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(170,46): error C2065: 'svFaildEmptyObject': undeclared identifier
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(170,46): error C2131: expression did not evaluate to a constant
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(170,46): message : a non-constant (sub-)expression was encountered
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(163,1): error C2051: case expression not constant
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(170,1): error C2051: case expression not constant
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUpdateUserScreen.h(177,17): warning C4060: switch statement contains no 'case' or 'default' labels
+  clsUser.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+  clsUtil.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUtil.h(67,1): warning C4102: 'defualt': unreferenced label
+  clsWithdrawScreen.cpp
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsBankClient.h(304,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Hp\source\repos\bank_system_practice_101\clsUser.h(1,14): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,16): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,30): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,39): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\GlobalVars.h(6,43): error C3861: 'Find': identifier not found
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,38): error C2825: '`anonymous-namespace'::clsUser': must be a class or namespace when followed by '::'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,47): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(32,61): error C2061: syntax error: identifier 'enPermissions'
+C:\Users\Hp\source\repos\bank_system_practice_101\clsScreen.h(33,52): error C2065: 'Permision': undeclared identifier
